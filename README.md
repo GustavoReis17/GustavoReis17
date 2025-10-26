@@ -5,6 +5,7 @@
   <br>
   🐍 Focado em Python, Inteligência Artificial e desenvolvimento de software.
 </p>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoReis17.GustavoReis17)
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
