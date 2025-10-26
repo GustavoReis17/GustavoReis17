@@ -1,5 +1,4 @@
-# Phyton Curso em video
-<h3>🐍 Aprendendo Python & IA 🤖</h3
+# 🐍 Aprendendo Python & IA 🤖
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoReis17.GustavoReis17)
 <p>
